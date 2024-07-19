@@ -1,5 +1,5 @@
 # CS337_Project
-## Anish Kulkarni, Ashwin Abraham, Cheshta Damor, Parth Pujari, <\br>
+## Parth Pujari, Anish Kulkarni, Ashwin Abraham, Cheshta Damor
 First run
 ```
 pip install -r requirements.txt
